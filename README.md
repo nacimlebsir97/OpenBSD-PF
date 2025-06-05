@@ -28,3 +28,10 @@
 - [CARP](PF.md#carp)
 - [PFSYNC](PF.md#pfsync)
 - [Port Forwarding](PF.md#port-forwarding)
+
+- [DHCP](DHCP.md#intro)
+
+- [DNS](DNS.md)
+- [Unbound Configuration](DNS.md#unbound-configuration)
+- [Domain Overrides](DNS.md#domain-overrides)
+- [Monitor some queries](DNS.md#monitor-some-queries)
