@@ -15,7 +15,6 @@
   PFSYNC is a protocol used to synchronize states between multiple systems running the Packet Filter (PF) firewall. It's designed to allow failover between two or more firewalls, ensuring that when a state (such as a connection) is established on one system, that state is shared with the backup system. This way, if the primary system fails, the backup system can immediately continue handling the traffic with minimal disruption.
 
 
-
 # Contents
 - [Firewall Requirements](#Firewall-Requirements)
 - [Interfaces](#Interfaces)
@@ -29,9 +28,5 @@
 - [CARP](##CARP)
 - [PFSYNC](##PFSYNC)
 - [Port Forwarding](##Port-Forwarding)
-
-
-
-
 
 
