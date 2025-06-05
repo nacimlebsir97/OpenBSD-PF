@@ -1,5 +1,6 @@
   This PF (Packet Filter) configuration turns an OpenBSD system into a simple but effective stateful firewall and NAT router, allowing all traffic from the LAN to access the internet, while blocking all unsolicited inbound connections from the WAN. Only responses to internal requests are permitted back in, ensuring basic network protection and isolation. The setup includes NAT, state tracking, and interface-based rules for a secure default-deny stance.
 
+  Optional: It can also act as DHCP and DNS server with unbound
 
 # Contents
 - [README](README.md)
@@ -16,6 +17,8 @@
 - [PFSYNC](#pfsync)
 - [Port Forwarding](#port-forwarding)
 
+- [DHCP](DHCP.md#intro)
+- [DNS](DNS.md)
 
 # Firewall Requirements
 
