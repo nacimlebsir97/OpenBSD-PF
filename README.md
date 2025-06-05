@@ -16,17 +16,15 @@
 
 
 # Contents
-- [Firewall Requirements](#Firewall-Requirements)
-- [Interfaces](#Interfaces)
-- [IP Routing](#IP-Routing)
-- [PF Rules](#PF-Rules)
-- [PF Configuration File](#PF-Configuration-File)
-- [PF Commands](#PF-Commands)
-- [Monitoring](#Monitoring)
-- [Bonus](#Bonus)
-- [Vlans](##Vlans)
-- [CARP](##CARP)
-- [PFSYNC](##PFSYNC)
-- [Port Forwarding](##Port-Forwarding)
-
-
+- [Firewall Requirements](#firewall-requirements)
+- [Interfaces](#interfaces)
+- [IP Routing](#ip-routing)
+- [PF Rules](#pf-rules)
+- [PF Configuration File](#pf-configuration-file)
+- [PF Commands](#pf-commands)
+- [Monitoring](#monitoring)
+- [Bonus](#bonus)
+- [Vlans](##vlans)
+- [CARP](#carp)
+- [PFSYNC](#pfsync)
+- [Port Forwarding](##port-forwarding)
