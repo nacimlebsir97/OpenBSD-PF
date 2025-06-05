@@ -21,7 +21,7 @@
 - [IP Routing](PF.md#ip-routing)
 - [PF Rules](PF.md#pf-rules)
 - [PF Configuration File](PF.md#pf-configuration-file)
-- [PF Commands](PF,md#pf-commands)
+- [PF Commands](PF.md#pf-commands)
 - [Monitoring](PF.md#monitoring)
 - [Bonus](PF.md#bonus)
 - [Vlans](PF.md#vlans)
