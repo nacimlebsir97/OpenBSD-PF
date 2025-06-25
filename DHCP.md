@@ -19,11 +19,11 @@ This DHCP configuration enables an OpenBSD system to act as a local DHCP server 
 1. Configuration file: **/etc/dhcpd.conf**
 ```
 option domain-name "homenetwork.local";
-option domain-name servers 9.9.9.9, 1.1.1.1;    # Can be changed to OpenBSD host IP if it also acts as a DNS server
+option domain-name-servers 9.9.9.9, 1.1.1.1;    # Can be changed to OpenBSD host IP if it also acts as a DNS server
 
 subnet 192.168.1.0 netmask 255.255.255.0 {
 	range 192.168.1.100 192.168.1.200;
-	option router 192.168.1.1;
+	option routers 192.168.1.1;
 }
 ```
 
